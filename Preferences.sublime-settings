@@ -1,0 +1,46 @@
+{
+	"caret_extra_width": 2,
+	"caret_style": "phase",
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"package-lock.json"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"node_modules"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage",
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"margin": 0,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"show_tab_close_buttons": false,
+	"tab_size": 2,
+	"theme": "ayu-mirage.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tabstops": true,
+	"word_wrap": "auto",
+	"wrap_width": 80,
+	"mde.list_indent_auto_switch_bullet": false,
+}
